@@ -1,0 +1,4 @@
+populationSize:100
+chromosomeLength:12
+noGenerations:10000
+mutationProbability:0.1
